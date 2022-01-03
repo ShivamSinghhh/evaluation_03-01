@@ -1,0 +1,66 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": [
+    {
+      "title": "shivam",
+      "ingredients": "power",
+      "cook_time": "30",
+      "image": "",
+      "instructions": "work smart",
+      "id": 1
+    },
+    {
+      "title": "shivam",
+      "ingredients": "power",
+      "cook_time": "30",
+      "image": "",
+      "instructions": "work smart",
+      "id": 2
+    },
+    {
+      "title": "shivam",
+      "ingredients": "power",
+      "cook_time": "30",
+      "image": "",
+      "instructions": "work smart",
+      "id": 3
+    },
+    {
+      "title": "gg",
+      "ingredients": "gg",
+      "cook_time": "",
+      "image": "",
+      "instructions": "wrw",
+      "id": 4
+    },
+    {
+      "title": "hyderabad biryani",
+      "ingredients": "dfjdfbdjfdg",
+      "waiting_hour": "10",
+      "image": "",
+      "instructions": "enjoy",
+      "id": 5
+    },
+    {
+      "title": "Mutton",
+      "ingredients": "fdjskfdsj",
+      "waiting_hour": "15",
+      "image": "",
+      "instructions": "dfhnjdbfjd",
+      "id": 6
+    }
+  ]
+}
